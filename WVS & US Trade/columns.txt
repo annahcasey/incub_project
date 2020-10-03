@@ -1,0 +1,38 @@
+Y001Post-Materialist index 12-item
+Y002Post-Materialist index 4-item
+Y003Autonomy Index
+Y010SACSECVAL.- Welzel Overall Secular Values
+Y011DEFIANCE.- Welzel defiance sub-index
+Y012DISBELIEF.- Welzel disbelief sub-index
+Y013RELATIVISM.- Welzel relativism
+Y014SCEPTICISM.- Welzel scepticism index
+Y020RESEMAVAL.- Welzel emancipative values
+Y021AUTONOMY.- Wezel Autonomy subindex
+Y022EQUALITY.- Welzel equality sub-index
+Y023CHOICE.- Welzel choice sub-index
+Y024VOICE.- Welzel voice sub-index
+Y011AAUTHORITY - Welzel defiance - 1: Inverse respect for authority
+Y011BNATIONALISM - Welzel defiance - 2: Inverse national pride
+Y011CDEVOUT- Welzel defiance - 3: Inverse devoutness
+Y012ARELIGIMP - Welzel disbelief- 1: Inverse importance of religion
+Y012BRELIGBEL - Welzel disbelief- 2: Inverse religious person
+Y012CRELIGPRAC - Welzel disbelief- 3: Inverse religious practice
+Y013ANORM1 - Welzel relativism- 1: Inverse norm conform1
+Y013BNORM2 - Welzel relativism- 2: Inverse norm conform2
+Y013CNORM3 - Welzel relativism- 3: Inverse norm conform3
+Y014ATRUSTARMY- Welzel scepticism- 1: Inverse trust in army
+Y014BTRUSTPOLICE- Welzel scepticism- 2: Inverse trust in police
+Y014CTRUSTCOURTS- Welzel scepticism- 3: Inverse trust in courts
+Y021AINDEP- Welzel autonomy-1: Independence as kid quality
+Y021BIMAGIN- Welzel autonomy-2: Imagination as kid quality
+Y021CNONOBED- Welzel autonomy-3: Obedience as kid quality
+Y022AWOMJOB- Welzel equality-1: Gender equality: job
+Y022BWOMPOL- Welzel equality-2: Gender equality: politics
+Y022CWOMEDU- Welzel equality-3: Gender equality: education
+Y023AHOMOLIB- Welzel choice-1: Homosexuality acceptance
+Y023BABORTLIB- Welzel choice-2: Abortion acceptable
+Y023CDIVORLIB- Welzel choice-3: Divorce acceptable
+Y024AVOICE1- Welzel voice-1
+Y024BVOICE2- Welzel voice-2
+Y024CVOI2_00- Welzel voice-3 (auxiliary)
+
